@@ -70,7 +70,7 @@ This project demonstrates my ability to:
 
 ## 🚀 Screenshots
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ---
 
